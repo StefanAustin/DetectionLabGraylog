@@ -5,7 +5,8 @@ The original lab runs with Splunk and most people might not have the money for a
 
 #### Donate to the project:
 
-All of the infrastructure, building, and testing of DetectionLab is currently funded by Chris Long in his spare time. If you find this project useful, feel free to buy him a coffee using one of the buttons below!
+All of the infrastructure, building, and testing of the original DetectionLab is currently funded by Chris Long in his spare time. If you find this project useful, feel free to buy him a coffee using one of the buttons below!
+Thi sis not an official fork, but his work is awesome!
 
 [![GitHub Sponsor](https://img.shields.io/badge/GitHub-Sponsor-red.svg)](https://github.com/sponsors/clong)
 
