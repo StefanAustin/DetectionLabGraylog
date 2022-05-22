@@ -1,7 +1,7 @@
 # Detection Lab
 ![DetectionLab](./img/DetectionLab.png)
 
-The original lab runs with Splunk and most people might not have the money for a licence. This lab has a Graylog instance in it.
+The original lab runs with Splunk and most people might not have the money for a licence. This lab will have a Graylog instance in it. Right now, I cannot set it to private, so it will not work as expected.
 
 #### Donate to the project:
 
