@@ -1,19 +1,11 @@
 # Detection Lab
 ![DetectionLab](./img/DetectionLab.png)
 
-DetectionLab is tested weekly on Saturdays via a scheduled CircleCI workflow to ensure that builds are passing.
-
-[![CircleCI](https://circleci.com/gh/clong/DetectionLab/tree/master.svg?style=shield)](https://circleci.com/gh/clong/DetectionLab/tree/master)
-![Lint Code Base](https://github.com/clong/DetectionLab/workflows/Lint%20Code%20Base/badge.svg)
-[![license](https://img.shields.io/github/license/clong/DetectionLab.svg?style=flat-square)](https://github.com/clong/DetectionLab/blob/master/license.md)
-![Maintenance](https://img.shields.io/maintenance/yes/2022.svg?style=flat-square)
-[![GitHub last commit](https://img.shields.io/github/last-commit/clong/DetectionLab.svg?style=flat-square)](https://github.com/clong/DetectionLab/commit/master)
-[![Twitter](https://img.shields.io/twitter/follow/DetectionLab.svg?style=social)](https://twitter.com/DetectionLab)
-[![Slack](https://img.shields.io/badge/Slack-DetectionLab-blue)](https://join.slack.com/t/detectionlab/shared_invite/zt-mv1qnw9f-3qo2ZrB0IbIKhvinfsgYhg)
+The original lab runs with Splunk and most people might not have the money for a licence. This lab has a Graylog instance in it.
 
 #### Donate to the project:
 
-All of the infrastructure, building, and testing of DetectionLab is currently funded by myself in my spare time. If you find this project useful, feel free to buy me a coffee using one of the buttons below!
+All of the infrastructure, building, and testing of DetectionLab is currently funded by Chris Long in his spare time. If you find this project useful, feel free to buy him a coffee using one of the buttons below!
 
 [![GitHub Sponsor](https://img.shields.io/badge/GitHub-Sponsor-red.svg)](https://github.com/sponsors/clong)
 
