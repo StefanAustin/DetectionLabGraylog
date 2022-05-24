@@ -20,5 +20,9 @@ Read more about Detection Lab on Medium here: https://medium.com/@clong/introduc
 
 NOTE: This lab has not been hardened in any way and runs with default vagrant credentials. Please do not connect or bridge it to any networks you care about. This lab is deliberately designed to be insecure; the primary purpose of it is to provide visibility and introspection into each host.
 
+Right now, this lab is not tested and you have to manually add the inputs for Graylog.
+
 ![Start](./img/install.png)
+
+Set up the inputs via Sidecar
 ![Inputs](./img/inputs.png)
